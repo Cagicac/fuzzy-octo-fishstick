@@ -1,0 +1,14 @@
+__pycache__
+logs
+tokens.py
+todo.txt
+*.db
+/dev
+.vscode
+tokens_dev.py
+cogs/dev_cog.py
+cogs/testcog.py
+*.disabled
+discordBot.db*
+sqlite3.exe
+.env
